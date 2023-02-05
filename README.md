@@ -5,8 +5,8 @@ I am a Master's student at Stanford University with an interest in AI, software,
 
 ## Education
 
-- MS in Computational and Mathematical Engineering, Stanford University (2021-2023)
-- BSc in Mechanical Engineering, Delft University of Technology (2018-2021)
+- MS in Computational and Mathematical Engineering, Stanford University (2021 - 2023)
+- BSc in Mechanical Engineering, Delft University of Technology (2018 - 2021)
 
 
 ## Programming Projects
