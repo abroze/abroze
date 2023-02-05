@@ -1,4 +1,33 @@
-### Hi there 👋
+# Hello, I'm Alban and welcome to my GitHub !
+
+I am a Master's student at Stanford University with an interest in AI, software, robotics and business.
+
+
+## Education
+
+- MS in Computational and Mathematical Engineering, Stanford University (2021-2023)
+- BSc in Mechanical Engineering, Delft University of Technology (2018-2021)
+
+
+## Programming Projects
+
+- Robot autonomy - software stack for Turtlebot3 autonomy (Python, ROS, Gazebo, rviz) including multiple algorithms like A*, Trajectory Tracking, Traveling Salesman Problem
+
+
+## Favorite Courses
+
+- Software Development for Scientists and Engineering
+- Principles of Robot Autonomy I
+- Decision Making under Uncertainty (Reinforcement Learning)
+- Machine Learning for Computational Engineering
+
+
+## Contact Details
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abroze)
+&nbsp; [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abroze@stanford.edu)
+&nbsp; [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abroze)
+&nbsp;
+
 
 <!--
 **abroze/abroze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
