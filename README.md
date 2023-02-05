@@ -17,9 +17,9 @@ I am a Master's student at Stanford University with an interest in AI, software,
 ## Favorite Courses
 
 - Software Development for Scientists and Engineering
-- Principles of Robot Autonomy I
+- [Principles of Robot Autonomy I](https://github.com/abroze/AA274A-Homework)
 - Decision Making under Uncertainty (Reinforcement Learning)
-- Machine Learning for Computational Engineering
+- [Machine Learning for Computational Engineering](https://github.com/abroze/CME216-Machine-Learning-Homework)
 
 
 ## Contact Details
