@@ -11,7 +11,7 @@ I am a Master's student at Stanford University with an interest in AI, software,
 
 ## Programming Projects
 
-- Robot autonomy - software stack for Turtlebot3 autonomy (Python, ROS, Gazebo, rviz) including multiple algorithms like A*, Trajectory Tracking, Traveling Salesman Problem
+- [ROBOT AUTONOMY](https://github.com/abroze/AA274A_Robot_Autonomy) - software stack for Turtlebot3 autonomy (Python, ROS, Gazebo, rviz) including multiple algorithms like A*, Trajectory Tracking, Traveling Salesman Problem
 
 
 ## Favorite Courses
