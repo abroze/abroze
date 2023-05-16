@@ -1,4 +1,4 @@
-# Hello, I'm Alban and welcome to my GitHub !
+# Alban Broze - GitHub page
 
 I am a Master's student at Stanford University with an interest in AI, software, robotics and business.
 
