@@ -18,7 +18,7 @@ I am a Master's student at Stanford University with an interest in AI, software,
 
 - (Advanced) Software Development for Scientists and Engineering
 - [Principles of Robot Autonomy I](https://github.com/abroze/AA274A-Homework)
-- Decision Making under Uncertainty (Reinforcement Learning)
+- [Decision Making under Uncertainty (Reinforcement Learning)](https://github.com/tsounack/Exploration-RL)
 - [Machine Learning for Computational Engineering](https://github.com/abroze/CME216-Machine-Learning-Homework)
 
 
