@@ -4,6 +4,8 @@ I'm a Software Engineer from Belgium with a strong interest in autonomous system
 
 ## Work Experience
 
+![futurewave_agency_logo](https://github.com/user-attachments/assets/824da7c3-209d-491f-b40a-f4bf26ad83df)
+
 - Embedded Software Engineer, Futurewave (Sep. 2024 - Present)
   - Product Design & Engineering Agency with offices in Brussels & Hong Kong
   - Firmware & back-end engineering for a start-up that develops autonomous supermarkets selling local, bio, and ethical products in Belgium
