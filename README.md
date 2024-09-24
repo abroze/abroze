@@ -1,4 +1,4 @@
-# Alban Broze - GitHub page
+# Alban Broze
 
 I'm a Software Engineer from Belgium with a strong interest in autonomous systems, design and start-ups !
 
