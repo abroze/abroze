@@ -25,8 +25,18 @@ I'm a Software Engineer from Belgium 🇧🇪 with a strong interest in autonomo
 
 ## ᴇᴅᴜᴄᴀᴛɪᴏɴ
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/0bf69a14-2814-42c6-8897-35398f7002e7" alt="stanford_logo" width="130" align="right" style="margin-right: 15px;">
+</p>
+
 - **Stanford University**  
   _Master of Science in Computational and Mathematical Engineering (2021 - 2023)_
+
+<br>
+
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/4e76b4d9-ebe0-41e5-a226-b6a108e0a3f5" alt="delft_logo" width="130" align="right" style="margin-right: 15px;">
+</p>
 
 - **Delft University of Technology**  
   _Bachelor of Science in Mechanical Engineering (2018 - 2021)_
