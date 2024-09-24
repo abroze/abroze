@@ -2,7 +2,14 @@
 
 I am a Master's student at Stanford University with an interest in AI, software, robotics and business.
 
-- 🔭 I’m currently working on ...
+## Work Experience
+
+- Embedded Software Engineer, Futurewave (Sep. 2024 - Present)
+  - Hey
+
+- Project Engineer, DEME Group (Nov. 2023 - Jun. 2024)
+  - Offshore Wind Farm of Ile d'Yeu et Noirmoutier
+  - Engineering of the logistics hub in the port of La Rochelle
 
 
 ## Education
